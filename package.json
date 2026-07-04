@@ -1,0 +1,10 @@
+{
+  "name": "retry-kit",
+  "version": "0.1.0",
+  "description": "指數退避重試 + 可重試錯誤判斷（fetch/任何 async）— 零依賴、瀏覽器/Node 皆可。withRetry / retryFetch / isRetryableError。",
+  "main": "index.js",
+  "scripts": { "example": "node example.js" },
+  "keywords": ["retry", "backoff", "exponential-backoff", "fetch", "resilience", "重試", "退避", "zero-dependency"],
+  "author": "Jeffrey0117",
+  "license": "MIT"
+}
