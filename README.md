@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.svg" width="96" height="96" alt="retry-kit logo">
+</p>
+
 # retry-kit 🔁
 
 **指數退避重試 + 可重試錯誤判斷。** fetch 或任何 async 操作，失敗自動退避重試（±25% jitter）。
